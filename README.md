@@ -4,6 +4,20 @@
 This project focuses on analyzing Parch and Posey's performance and growth potential to assist Dunder Mifflin in making an informed acquisition decision. The analysis includes revenue trends, sales efficiency, and marketing strategies, supported by SQL queries and data visualizations.
 
 ---
+## **Entity-Relationship Diagram (ERD)**
+
+The following ERD represents the database structure for Parch and Posey's operational data. It includes key entities such as orders, accounts, web events, sales representatives, and regions, along with their relationships.
+
+![Parch and Posey ERD](Parch_ERD1.png)
+
+### **Explanation**
+- **orders**: Contains details about customer orders, including quantities and revenue for different product types.
+- **accounts**: Represents customer information, including geographic details and associated sales representatives.
+- **web_events**: Logs customer interactions via various marketing channels.
+- **sales_reps**: Lists sales representatives and their assigned regions.
+- **region**: Defines geographic regions associated with sales representatives.
+
+---
 
 ## **Key Business Questions and Findings**
 
