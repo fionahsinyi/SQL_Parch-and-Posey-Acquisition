@@ -1,4 +1,3 @@
-# SQL_Parch-and-Posey-Acquisition
 # **Parch and Posey Acquisition Analysis**
 
 ## **Overview**
@@ -67,22 +66,25 @@ The `/visualizations` folder contains:
 1. **Revenue Streams**:
    - `revenue_by_product.png`: Revenue distribution by product.
    <img width="502" alt="截圖 2024-12-25 凌晨12 31 00" src="https://github.com/user-attachments/assets/24654032-b570-40a2-8ae0-a94a21f838b8" />
+
    - `revenue_by_customer.png`: Revenue distribution by top customers.
    <img width="352" alt="截圖 2024-12-25 凌晨12 31 33" src="https://github.com/user-attachments/assets/81e579c3-a982-4cfb-bb29-0710a2a01c82" />
 
 
-2. **Business Growth**:
+3. **Business Growth**:
    - `revenue_trends.png`: Monthly revenue trends by product category.
    - <img width="529" alt="截圖 2024-12-25 凌晨12 31 51" src="https://github.com/user-attachments/assets/e2f506dd-6e03-4c9d-ba5c-3379c2b18d73" />
-   - `orders_trend
+
+   - `orders_trends.png`: Monthly order trends.
    <img width="552" alt="截圖 2024-12-25 凌晨12 32 42" src="https://github.com/user-attachments/assets/3d39872f-05c6-4d02-8162-46e400a6ac0b" />
-s.png`: Monthly order trends.
+
    - `customer_engagement.png`: Customer engagement trends.
   <img width="540" alt="截圖 2024-12-25 凌晨12 33 13" src="https://github.com/user-attachments/assets/3b285ce9-08d3-47fc-af0a-fc3396c9e7b6" />
 
-3. **Sales Efficiency**:
+5. **Sales Efficiency**:
    - `regional_sales_efficiency.png`: Sales efficiency by region.
    <img width="502" alt="截圖 2024-12-25 凌晨12 31 00" src="https://github.com/user-attachments/assets/24654032-b570-40a2-8ae0-a94a21f838b8" />
+
    - `geographic_sales_distribution.png`: Geographic distribution of total sales.
   <img width="546" alt="截圖 2024-12-25 凌晨12 34 14" src="https://github.com/user-attachments/assets/cd6ce9c2-650c-45a2-938a-c9bc9fe33ff3" />
 
