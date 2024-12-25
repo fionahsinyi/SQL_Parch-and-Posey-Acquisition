@@ -7,8 +7,8 @@ This project focuses on analyzing Parch and Posey's performance and growth poten
 ## **Entity-Relationship Diagram (ERD)**
 
 The following ERD represents the database structure for Parch and Posey's operational data. It includes key entities such as orders, accounts, web events, sales representatives, and regions, along with their relationships.
+<img width="716" alt="Parch_ERD1" src="https://github.com/user-attachments/assets/62bda721-b884-4b22-8f6f-1eb602688c08" />
 
-![Parch and Posey ERD](Parch_ERD1.png)
 
 ### **Explanation**
 - **orders**: Contains details about customer orders, including quantities and revenue for different product types.
